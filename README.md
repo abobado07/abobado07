@@ -1,12 +1,12 @@
 Português
-Entusiasta de Blockchain e Inteligência Artificial.
+Entusiasta de Ciência de Dados e Desenvolvimento de Banco de Dados.
 Interessado em inovar e explorar novas soluções tecnológicas.
 Trabalho e estudo de forma independente.
 Aberto a oportunidades e colaborações na área.
-Contato : lucassouza9483@gmail.com
+Contato: lucassouza9483@gmail.com
 
 English
-Blockchain and Artificial Intelligence enthusiast.
+Data Science and Database Development enthusiast.
 Interested in innovation and exploring new technological solutions.
 Self-driven learner and worker.
 Open to opportunities and collaborations in the field.
